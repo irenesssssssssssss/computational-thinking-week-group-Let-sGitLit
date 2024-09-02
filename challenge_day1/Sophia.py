@@ -1,2 +1,2 @@
-def my_name():
+def sophia_name():
   return "Sophiaaaaaaa"
